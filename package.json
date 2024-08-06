@@ -1,0 +1,30 @@
+{
+  "name": "ollamaiui",
+  "version": "1.0.0",
+  "description": "webui for ollama ai chat",
+  "main": "ollamaiui.js",
+  "bin": "dist/index.js",
+  "pkg": {
+    "assets": [
+      "dist/**/*"
+    ],
+    "targets": [ "node18-win-x64","node18-linux-x64", "node18-macos-x64"],
+
+    "outputPath": "bin"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "pkg ."
+  },
+  "keywords": [
+    "ollama",
+    "webui"
+  ],
+  "author": "bfw",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.3",
+    "http-proxy": "^1.18.1",
+    "qrcode": "^1.5.3"
+  }
+}
