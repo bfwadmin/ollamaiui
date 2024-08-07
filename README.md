@@ -31,3 +31,5 @@ OllaMaiUI allows you to run large AI models on your local computer, making them 
 ## Getting Started
 
 You can download and experience this local offline AI interaction assistant with the complete code provided.
+[source code download](https://project.bfw.wiki/project/17230674250020940031.html)
+
