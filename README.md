@@ -1,7 +1,8 @@
 # OllaMaiUI: Offline AI Assistant for Home Use
 
-OllaMaiUI allows you to run large AI models on your local computer, making them accessible to other family members via their smartphones. This enables children to engage with AI for learning and parents to use AI for work, all while ensuring data security by running everything offline locally. We developed this application using Node.js and Vue.js, setting up a local HTTP server, and utilizing the OllaMA API for AI interactions.
-
+OllaMaiUI allows you to run large AI models on your local computer, making them accessible to other family members via their smartphones. This enables children to engage with AI for learning and parents to use AI for work, all while ensuring data security by running everything offline locally. We developed this application using Node.js and Vue.js, setting up a local HTTP server, and utilizing the OllaMA API for AI interactions.For the best browsing experience, we recommend using the Edge browser.
+![预览](66b21538239a3.png)
+![预览](668e240e13cba.gif)
 ## Features
 
 - **Local Network Accessibility**: Use on other computers and devices within the local network.
